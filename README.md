@@ -9,3 +9,5 @@ The housing.csv dataset consists of housing prices in and across US. I then trai
  - Upon taking a random but calculated value for w and b for fitting the equation `y=w*x+b` 
  - The we calculate the deviation of the curve from the actual values and try to minimise the error through gradient descent.
 
+![](https://github.com/raunaksaigal/linear-regression-in-one-variable/assets/74237128/91acaa67-d11c-45d0-b445-d9724c5c24b9)
+![](https://github.com/raunaksaigal/linear-regression-in-one-variable/assets/74237128/09ec7fa3-3d2a-4311-abe4-a3c7a76698ba)
